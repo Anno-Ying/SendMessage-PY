@@ -1,7 +1,7 @@
 <h2 align="center"> PyWhatKit WhatsApp Message Sender <br>
 <h2 align="center"> ━━━━━━━━━━━━  ❖  ━━━━━━━━━━━━ </h2>
 
-> **Warn**<br> 
+> **Warning**<br> 
 > **É importante ressaltar que enviar mensagens automáticas sem o consentimento do destinatário pode violar as políticas do WhatsApp e até mesmo levar ao banimento da conta. É importante sempre verificar as políticas de uso do WhatsApp antes de usar qualquer ferramenta de automação.**
 
 > **Note**<br> 
