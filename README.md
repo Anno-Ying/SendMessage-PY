@@ -1,8 +1,8 @@
 <h2 align="center"> PyWhatKit WhatsApp Message Sender <br>
-<h2 align="center"> ---------------------------------- <br>
+<h2 align="center"> ━━━━━━━━━━━━  ❖  ━━━━━━━━━━━━ </h2> 
 
-> Note 
-> Este é um código Python simples que usa a biblioteca PyWhatKit para enviar uma mensagem no WhatsApp para um número específico. O código envia a mensagem "Hello World! I am Annoying." para o número "+5571xxxxxxxxx" às 18h:44min. É importante ressaltar que enviar mensagens automáticas sem o consentimento do destinatário pode violar as políticas do WhatsApp e até mesmo levar ao banimento da conta.
+> **Note**<br>
+> **Este é um código Python simples que usa a biblioteca PyWhatKit para enviar uma mensagem no WhatsApp para um número específico. O código envia a mensagem "Hello World! I am Annoying." para o número "+5571xxxxxxxxx" às 18h:44min. É importante ressaltar que enviar mensagens automáticas sem o consentimento do destinatário pode violar as políticas do WhatsApp e até mesmo levar ao banimento da conta.**
 
 <br>❶ ━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 
